@@ -155,4 +155,3 @@ def check_subscription(call):
     )
 
 bot.polling()
-qaren endi faqat vs codeda ishlidiekran 
